@@ -16,7 +16,7 @@ namespace SistemaConsultorio
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new inicio());
+            Application.Run(new MENU());
         }
     }
 }

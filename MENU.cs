@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemaConsultorio
 {
-    public partial class inicio : Form
+    public partial class MENU : Form
     {
-        public inicio()
+        public MENU()
         {
             InitializeComponent();
         }

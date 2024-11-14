@@ -1,6 +1,6 @@
 ﻿namespace SistemaConsultorio
 {
-    partial class inicio
+    partial class MENU
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(inicio));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MENU));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.menupacientes = new FontAwesome.Sharp.IconMenuItem();
             this.menucitas = new FontAwesome.Sharp.IconMenuItem();
